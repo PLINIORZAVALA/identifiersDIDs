@@ -1,0 +1,5 @@
+ - Comando para la creacion de venv
+    python -m venv venv 
+ - Comando para la activacion del venv
+    .\venv\Scripts\Activate
+ - 
